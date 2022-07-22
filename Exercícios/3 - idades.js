@@ -9,10 +9,10 @@ let idade2 = 20;
 let media = (idade1 + idade2) / 2;
 
 console.log(`
-    Nome: ${nome1}
-    Idade: ${idade1}
+    Nome: ${nome1};
+    Idade: ${idade1};
     
-    Nome: ${nome2}
-    Idade: ${idade2}
+    Nome: ${nome2};
+    Idade: ${idade2};
     
-    Media: ${media}`);
+    Media: ${media};`);
